@@ -17,14 +17,14 @@ And finally, being able to move around using just commands sounds like a lot of 
 * Login / Logout
 * Command-based control – all actions can be performed using simple text commands 
 * Session overview – view completed and unfinished sessions
-* Timer mode
+* Timer mode (Pomodoro)
   * Basic features – start, pause, short break, and long break
   * Customization – freely set your session and break durations
   * Topics - Add topic to your session
   * Auto-break mode – automatically selects the appropriate break type when enabled
 
 ### Planned features
-* Stopwatch mode
+* Stopwatch mode (Flowtime)
 * Statistics
 
 ## Screenshots
